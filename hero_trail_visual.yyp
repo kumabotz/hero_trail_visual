@@ -54,6 +54,7 @@
     {"id":{"name":"snd_shield_activate","path":"sounds/snd_shield_activate/snd_shield_activate.yy",},"order":3,},
     {"id":{"name":"obj_pillar_whole","path":"objects/obj_pillar_whole/obj_pillar_whole.yy",},"order":8,},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},"order":1,},
+    {"id":{"name":"seq_baddie_defeat","path":"sequences/seq_baddie_defeat/seq_baddie_defeat.yy",},"order":1,},
     {"id":{"name":"spr_player_defeated","path":"sprites/spr_player_defeated/spr_player_defeated.yy",},"order":6,},
     {"id":{"name":"snd_torch","path":"sounds/snd_torch/snd_torch.yy",},"order":7,},
     {"id":{"name":"ts_animations","path":"tilesets/ts_animations/ts_animations.yy",},"order":2,},
